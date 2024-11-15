@@ -1,1 +1,8 @@
-
+div.menu {
+  padding:50px;
+}
+div.menu a {
+  font-family: cursive;
+  border: 10px;
+  color:red;
+}
